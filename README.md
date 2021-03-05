@@ -12,16 +12,11 @@ Crawling Project
 사이트 소개
 --------
 
-1. 야놀자
-
 ![야놀자](https://user-images.githubusercontent.com/78460759/110055723-d82d0300-7da0-11eb-877d-a83ba73f8dc1.png)
 
-2. 데일리호텔 
 
 ![데일리호텔](https://user-images.githubusercontent.com/78460759/110056001-54bfe180-7da1-11eb-8bce-b215f0b46096.png)
 
-
-3. 여기어때
 
 ![여기어때](https://user-images.githubusercontent.com/78460759/110055902-2c37e780-7da1-11eb-84ec-e4fa4a6f6a80.png)
 
