@@ -1,0 +1,4 @@
+PATH=/bin:/usr/bin:/home/ubuntu/.pyenv/versions/python3/bin
+*/5 * * * * /bin/bash ~/runyanolja.sh
+*/5 * * * * /bin/bash ~/dailyrun.sh
+*/5 * * * * /bin/bash ~/rungood.sh
